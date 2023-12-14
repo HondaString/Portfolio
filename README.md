@@ -3,7 +3,7 @@
   <a href="https://andikakurnia.vercel.app/" target="_blank">Andika Kurnia Sandi Yuda</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="zxd.png" />
+  <img alt="Demo" src="zxd.PNG" />
 </div>
 
 <br/>
